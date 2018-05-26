@@ -1,0 +1,4 @@
+/* CSS Document */
+table{margin: 0 auto;border-collapse: collapse;text-align: center;}
+td,th,tr{border:1px solid #000;}
+th{text-align: center}
